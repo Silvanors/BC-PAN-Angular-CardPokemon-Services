@@ -5,6 +5,7 @@ export type PokemonData = {
     front_default: string;
   }
   types: {
+name: any;
     slot: number
     type: {
       name:string;
